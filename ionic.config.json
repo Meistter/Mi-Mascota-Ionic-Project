@@ -1,0 +1,7 @@
+{
+  "name": "MiMascotaIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
